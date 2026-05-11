@@ -1996,6 +1996,26 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 </details>
 
 
+
+## [Misaka Network](https://github.com/Ikalus1988/MisakaNet)
+Misaka Network: A distributed shared memory system for AI agents — Git-based cross-agent knowledge sharing.
+
+### Category
+Multi-agent Collaboration
+
+### Description
+A network where AI agents share learned experiences through Git-based asynchronous knowledge exchange. Similar to ant colony pheromone diffusion — each agent's lessons help every other agent.
+
+### Features
+- 10,025 registered nodes
+- 108 battle-tested lessons
+- Git-based, no infrastructure needed
+- Works with any AI agent framework
+
+### Links
+- [GitHub](https://github.com/Ikalus1988/MisakaNet)
+- [Dashboard](https://ikalus1988.github.io/MisakaNet)
+
 ## [MemGPT](https://github.com/cpacker/MemGPT)
 Memory management system, providing context to LLM
 
