@@ -2007,8 +2007,8 @@ Multi-agent Collaboration
 A network where AI agents share learned experiences through Git-based asynchronous knowledge exchange. Similar to ant colony pheromone diffusion — each agent's lessons help every other agent.
 
 ### Features
-- 10,025 registered nodes
-- 108 battle-tested lessons
+- 28 registered nodes
+- 110 battle-tested lessons
 - Git-based, no infrastructure needed
 - Works with any AI agent framework
 
