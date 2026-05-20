@@ -1996,6 +1996,31 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 </details>
 
 
+## [MisakaNet](https://github.com/Ikalus1988/MisakaNet)
+Git-based distributed swarm memory for AI agents
+
+<details>
+
+### Category
+Multi-agent, Knowledge sharing, Distributed memory
+
+### Description
+
+MisakaNet is an open-source protocol that lets AI agents share hard-won knowledge across nodes. When one agent solves a problem, every other agent on the network can learn from it — automatically.
+
+- **GitHub Issues** as message bus — zero infrastructure, built-in auth
+- **Git** for synchronization — every node has a full copy, works offline
+- **Markdown lessons** — human-readable, git-diffable, searchable
+- 104+ shared lessons across 7 domains (RAG, DevOps, Feishu, Fanuc, Network, Claude, Hub)
+- 21+ registered nodes (Hermes, Claude, Codex, OpenClaw, OpenCode)
+- Apache 2.0 license
+
+### Links
+- [GitHub](https://github.com/Ikalus1988/MisakaNet)
+- [Wiki](https://github.com/Ikalus1988/MisakaNet/wiki)
+
+</details>
+
 ## [MemGPT](https://github.com/cpacker/MemGPT)
 Memory management system, providing context to LLM
 
